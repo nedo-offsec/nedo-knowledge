@@ -78,10 +78,10 @@
   *Дата:* 20 июля 2026 \
   *Задание:* No FA \
   *Категория:* Web \
-  *Сложность:* Easy 200 pts
+  *Сложность:* Medium 200 pts
 ]
 
-== Задание
+= Задание
 
 Seems like some data has been leaked! Can you get the flag?
 You can get started here `http://foggy-cliff.picoctf.net:60917/login` to find the flag!
@@ -90,7 +90,7 @@ The application code can be found here `app.py`.
 
 The leaked data can be found here `users.db`.
 
-== Решение
+= Решение
 
 Берем users.db и смотрич чекаво:
 ```bash
