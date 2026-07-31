@@ -10,11 +10,9 @@
 
 // #include "01-basics/main.typ"
 
-= Structures
 #include "02-structure/main.typ"
 
 #pagebreak()
-= Data-Types
 #include "03-data-types/main.typ"
 
 // #include "04-composite-types/main.typ"
@@ -22,15 +20,12 @@
 // #include "06-methods/main.typ"
 
 #pagebreak()
-= Interfaces
 #include "07-interfaces/main.typ"
 
 #pagebreak()
-= Gorouties and channels
 #include "08-goroutines-channels/main.typ"
 
 #pagebreak()
-= Concurrency
 #include "09-concurrency-sync/main.typ"
 // #include "10-packages-tools/main.typ"
 // #include "11-testing/main.typ"
